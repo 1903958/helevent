@@ -1,0 +1,22 @@
+
+
+body {
+      background-image: url("20.jpg");
+	  font-style: oblique;	 
+}
+
+
+.error {
+	font-size:10px;
+	color: #FF0000; 
+}
+
+.nav {
+	background-color: #b8e0f0; 
+	font-style: italic;	
+}
+
+.container-fluid {
+	background-color: #d3e9f2; 
+	text-align: center; 
+}
